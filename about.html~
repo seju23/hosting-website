@@ -4,12 +4,12 @@
     <link rel="stylesheet" type="text/css" href="about.css">
     
 </head>
-<body background="images\pattern.jpg">
+<body background="pattern.jpg">
 
 <div class="header"> 
     <div class="container">
         <div class="logo">
-            <img src="images\logo.jpg">
+            <img src="logo.jpg">
         </div>
 
         <div class="nav">
